@@ -17,7 +17,6 @@
 <div class="new animated bounceInUp">
   <p>
      Designed by:<br> 
-    <br>
    Narendran M</p> 
 
     </div>
