@@ -20,7 +20,7 @@ body{
 
 .new{
     
-    font-size:7px;
+    font-size:2px;
     background: rgb(0, 0, 0); /* Fallback color */
 background: rgba(0, 0, 0, 0); /* Black background with 0.5 opacity */
 color: #f1f1f1;
