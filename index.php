@@ -14,6 +14,12 @@
 <a href="bsb\bsb.html" class="btn btn-full animated bounceInUp">Back street boys</a>
 </div>
 
+<div class="new animated bounceInUp">
+  <p>
+     Designed by:<br> 
+    <br>
+  </t> Narendran M</p> 
 
+    </div>
 </body>
 </html>
