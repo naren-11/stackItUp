@@ -46,7 +46,7 @@ transform: translate(-50%, -50%);
 h1{
 
    color:white;
-   font-size: 50px;
+   font-size: 20px;
    word-spacing: 5px;
    letter-spacing: 3px;
    margin-bottom: 20px;
@@ -59,7 +59,7 @@ font-weight: lighter;
     left: 40px;
     top: 2px;
     display: inline-block;
-    padding: 10px 30px;
+    padding: 5px 30px;
     font-weight: lighter;
     text-decoration: none;
     text-transform: uppercase;
